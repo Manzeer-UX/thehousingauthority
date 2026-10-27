@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470">
+  <rect width="800" height="470" fill="#edf3eb"/>
+  <path d="M0 0h95c-15 44-31 78-26 123 4 39 30 69 17 108-12 37-29 54-26 89 4 44 29 91 18 150H0Z" fill="#c7e0dc"/>
+  <path d="M91 0C75 49 58 81 66 125c7 40 27 64 17 104-13 48-34 61-26 99 9 52 32 87 19 142" fill="none" stroke="#a9d1cb" stroke-width="4"/>
+  <path d="M98 32c92-27 134 2 224-8 73-8 104-22 180-15 92 8 168 7 298-6v71c-92 15-153 4-226 15-88 13-170 25-260 11C219 85 160 95 93 99Z" fill="#e3ebdf"/>
+  <path d="M107 260c87-17 119-56 194-53 74 3 104 35 168 22 89-18 134-35 234-9 40 11 68 17 97 17v94c-68-20-116-30-182-12-98 27-139-3-210-8-67-5-132 22-190 31-34 5-72 5-112 0Z" fill="#e2eadb"/>
+  <path d="M160 398c78-14 151-27 225-6 90 25 126 19 195-12 73-33 135-31 220-19v109H131Z" fill="#e4eddf"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M74 118C195 101 295 107 406 116c118 9 242-11 394-26" stroke-width="15"/>
+    <path d="M75 210c132-32 219-33 339-18 135 17 242 1 386-31" stroke-width="12"/>
+    <path d="M71 304c120-34 225-24 332-8 130 19 252 7 397-18" stroke-width="14"/>
+    <path d="M80 397c99-34 191-27 304-16 138 13 277-3 416-38" stroke-width="12"/>
+    <path d="M150 0c18 120 9 240-11 470" stroke-width="11"/>
+    <path d="M279 0c10 144-3 302-19 470" stroke-width="12"/>
+    <path d="M419 0c4 116-8 232-12 470" stroke-width="11"/>
+    <path d="M586 0c-20 133-14 317-10 470" stroke-width="12"/>
+    <path d="M709 0c-9 166 2 316 20 470" stroke-width="9"/>
+  </g>
+  <g fill="none" stroke="#d1ded5" stroke-width="2" stroke-linecap="round" opacity=".9">
+    <path d="M91 160c180 6 292 21 438 6 102-10 175-13 271-34"/>
+    <path d="M79 348c118-15 191-17 302 1 139 22 276 6 419-29"/>
+    <path d="M209 0c8 173-2 313-22 470"/>
+    <path d="M346 0c0 159-9 305-21 470"/>
+    <path d="M503 0c-7 153-13 324-11 470"/>
+    <path d="M649 0c-15 156-12 311-5 470"/>
+  </g>
+  <g fill="#bdd5c1" opacity=".75">
+    <ellipse cx="680" cy="72" rx="72" ry="34"/>
+    <ellipse cx="522" cy="386" rx="77" ry="25"/>
+    <ellipse cx="204" cy="261" rx="44" ry="19"/>
+  </g>
+  <g fill="#819b91" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="2" font-size="11">
+    <text x="604" y="56">NORTH COLUMBUS</text>
+    <text x="495" y="251">MIDTOWN</text>
+    <text x="601" y="425">SOUTH COLUMBUS</text>
+  </g>
+  <text x="18" y="371" transform="rotate(-90 18 371)" fill="#568a86" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">CHATTAHOOCHEE RIVER</text>
+</svg>
